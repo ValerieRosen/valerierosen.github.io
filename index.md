@@ -4,4 +4,4 @@
 
 ##### Check out my second project [Connect 4](https://valerierosen.github.io/Connect4/) that is based on the classic game. 
 
-##### Check out my third project [Connect 4 OO Version]
+##### Check out my third project [Connect 4 OO Version]https://valerierosen.github.io/Connect4OO/) that has been modified from the second project!
